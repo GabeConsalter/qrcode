@@ -1,0 +1,31 @@
+{
+  "name": "qrcode",
+  "version": "1.0.0",
+  "description": "A simple QRCode generator.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabeconsalter/qrcode.git"
+  },
+  "keywords": [
+    "qrcode",
+    "code",
+    "qr",
+    "link",
+    "text",
+    "hiperlink",
+    "tag",
+    "javascript",
+    "js",
+    "es6"
+  ],
+  "author": "Gabriel Consalter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabeconsalter/qrcode/issues"
+  },
+  "homepage": "https://github.com/gabeconsalter/qrcode#readme"
+}
