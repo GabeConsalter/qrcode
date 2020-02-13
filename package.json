@@ -2,7 +2,7 @@
   "name": "qrcode",
   "version": "1.0.0",
   "description": "A simple QRCode generator.",
-  "main": "app.js",
+  "main": "qrcode.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -27,5 +27,8 @@
   "bugs": {
     "url": "https://github.com/gabeconsalter/qrcode/issues"
   },
-  "homepage": "https://github.com/gabeconsalter/qrcode#readme"
+  "homepage": "https://github.com/gabeconsalter/qrcode#readme",
+  "dependencies": {
+    "commander": "^4.1.1"
+  }
 }
